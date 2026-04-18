@@ -1,0 +1,18 @@
+# Ignore everything by default in this umbrella repository.
+*
+
+# Keep the repository plumbing.
+!.gitignore
+!.git/
+
+# Track the root documentation and shared workspace definition.
+!README.md
+!ChipsRepos.code-workspace
+
+# Track Copilot guidance for this umbrella repository.
+!.github/
+!.github/copilot-instructions.md
+
+# Track shared automation scripts.
+!scripts/
+!scripts/**
