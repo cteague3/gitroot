@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChipsPlayGround" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoWork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RulesEngine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bggstuff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cthulhucli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devcontainer.images" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devcontainer.spec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geekrush" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitignore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgit" vcs="Git" />
+  </component>
+</project>

@@ -13,6 +13,13 @@
 !.github/
 !.github/copilot-instructions.md
 
+# Track shared IDE and editor configurations.
+!.idea/
+!.idea/**
+!.vscode/
+!.vscode/**
+!.editorconfig
+
 # Track shared automation scripts.
 !scripts/
 !scripts/**
